@@ -4,7 +4,7 @@
     .dependencies = .{
         .httpz = .{
             .url = "https://github.com/karlseguin/http.zig/archive/refs/heads/zig-0.13.zip",
-            .hash = "1220c47311099ba5705d906d11927bc222e9562830bcc32b6d638e10124371f4eeb6",
+            .hash = "12208c1f2c5f730c4c03aabeb0632ade7e21914af03e6510311b449458198d0835d6",
         },
     },
     .paths = .{
